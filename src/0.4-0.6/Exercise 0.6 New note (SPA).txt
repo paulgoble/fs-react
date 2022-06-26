@@ -1,0 +1,9 @@
+title Exercise 0.6 New note (SPA)
+
+Browser->Server: HTTP Post https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+Server->Browser: {"message":"note created"}
+
+note over Browser:
+Presumably the browser executes some JS
+which renders the new note to the page.
+end note
